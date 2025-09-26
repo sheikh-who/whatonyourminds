@@ -1,0 +1,15 @@
+{
+  "name": "webcontainer-api-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.2.10"
+  },
+  "dependencies": {
+    "@webcontainer/api": "^1.1.10"
+  }
+}
